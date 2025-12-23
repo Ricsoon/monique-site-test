@@ -60,7 +60,7 @@ const Footer = () => {
           <div className="flex space-x-6 text-gray-400">
             <Link to="/termos" className="hover:text-white transition-colors duration-300">Termos de Uso</Link>
             <Link to="/politica" className="hover:text-white transition-colors duration-300">Política de Privacidade</Link>
-            <a href="#" className="hover:text-white transition-colors duration-300">Cookies</a>
+            <a href="#" className="hover:text-white transition-colors duration-300">Cookies </a>
           </div>
         </div>
       </div>
